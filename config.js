@@ -14,24 +14,24 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;N3QzEKzA#qh5d7V8CCMLkyv0ZYfD4EeqcQNrFUhyD_mV_Y5YAhz8' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://rush_gm51_user:PknpJpfpN4tE6ZHdXHODVmgn117u73G8@dpg-ck43kej6fquc73a1e120-a.frankfurt-postgres.render.com/rush_gm51'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94766037244'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = '𖥻៹𝑃𝓸𝓸🌻✨'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
-global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -41,27 +41,27 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = '𖥻៹𝑃𝓸𝓸🌻✨'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@𖥻៹𝑃𝓸𝓸🌻✨' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = '•アₒₒ💕🐝•2023 '
 
-global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
+global.LANG = 'SI' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = '•アₒₒ💕🐝• © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://i.ibb.co/mFbNBkm/Polish-20211029-183617629.png' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = 'default' // Set Alive Message
 
 global.MAX_SIZE = '400' // Bot Uloading Max size 
 
-global.ANTI_BAD = 'true' // Antibad (on = True , Off = False )
+global.ANTI_BAD = 'false' // Antibad (on = True , Off = False )
 
 global.ANTI_BAD_ACTION = false
 
@@ -71,12 +71,12 @@ global.ANTI_BOTS = true
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
+global.GROUP_LINK = 'https://i.ibb.co/mFbNBkm/Polish-20211029-183617629.png' // ur group link
 
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
@@ -89,7 +89,7 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
+global.ytname = "YT: •アₒₒ💕🐝•2023" //ur yt chanel name
+global.socialm = "GitHub: •アₒₒ💕🐝•2023" //ur github or insta name
 global.location = "Srilanka, colombo" //ur location
 
